@@ -8,5 +8,6 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-live link: todo-react-1-theta.vercel.app
+live link:https://todo-react-1-theta.vercel.app/)https://todo-react-1-theta.vercel.app/
+
 
